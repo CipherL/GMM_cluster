@@ -19,4 +19,7 @@ the detail of E/M algorithm
 6、 If the log-likelihood value converges to some value 
     ( or if all the parameters converge to some values ) 
     then stop, 
-    else return to Step2 
+    else return to Step2
+
+
+file Gmm_nn.py and Gmm_rebuild.py is independent file that using neural network reconstruuct GMM
